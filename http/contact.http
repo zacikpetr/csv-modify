@@ -1,0 +1,9 @@
+GET http://localhost:8080/api/contact?firstName=Franta&lastName=Novák&email=franta.novak@email.cz
+Accept: application/json
+
+###
+
+GET http://localhost:8080/api/contact?firstName=Petr&lastName=Žáčík&email=pz@mail.cz
+Accept: application/json
+
+###
